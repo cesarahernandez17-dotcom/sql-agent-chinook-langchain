@@ -44,3 +44,7 @@ Puedes hacer preguntas como:
 ```bash
 git clone https://github.com/cesarahernandez17-dotcom/sql-agent-chinook-langchain.git
 cd sql-agent-chinook-langchain
+
+pip install -r requirements.txt
+
+cp .env.example .env
